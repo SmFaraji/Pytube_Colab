@@ -4,7 +4,7 @@ Free Youtube Video Downloader
 ## How To Use
 Simply open the following colab notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SmFaraji/Pytube_Colab/blob/main/pytube.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmFaraji/Pytube_Colab/blob/main/pytube.ipynb)
 
 ## Links
 GitHub : https://github.com/SmFaraji
